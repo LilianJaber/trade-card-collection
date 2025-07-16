@@ -1,0 +1,181 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://YOUR_DOMAIN/iiif/collections/timeline-example.json",
+  "type": "Collection",
+  "label": {
+    "en": ["Timeline of Trade Cards"]
+  },
+  "summary": {
+    "en": ["A demonstration of IIIF navDate for timeline visualisation."]
+  },
+  "items": [
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/dw4lhjly",
+      "type": "Manifest",
+      "label": {
+        "en": ["Dickie Trade Card"]
+      },
+      "navDate": "1795-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/jhdp7rtt",
+      "type": "Manifest",
+      "label": {
+        "en": ["William Dobson Trade Card"]
+      },
+      "navDate": "1805-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/cwnwlcv7",
+      "type": "Manifest",
+      "label": {
+        "en": ["James Heskett Trade Card"]
+      },
+      "navDate": "1810-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/x1ncjd4j",
+      "type": "Manifest",
+      "label": {
+        "en": ["W. & T. Radclyffe Trade Card"]
+      },
+      "navDate": "1817-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/dc77dkf3",
+      "type": "Manifest",
+      "label": {
+        "en": ["John Hudson Trade Card"]
+      },
+      "navDate": "1820-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/yhtbv6lc",
+      "type": "Manifest",
+      "label": {
+        "en": ["Wells and Co. Trade Card"]
+      },
+      "navDate": "1820-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/tmgjs1fb",
+      "type": "Manifest",
+      "label": {
+        "en": ["Staunton & Son Trade Card"]
+      },
+      "navDate": "1825-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/r81187jx",
+      "type": "Manifest",
+      "label": {
+        "en": ["Turnbull Trade Card"]
+      },
+      "navDate": "1826-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/mxqnmx42",
+      "type": "Manifest",
+      "label": {
+        "en": ["William Dobson Billhead"]
+      },
+      "navDate": "1827-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/s1bcnd12",
+      "type": "Manifest",
+      "label": {
+        "en": ["Thomas Trade Card"]
+      },
+      "navDate": "1829-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/xkjfqgwk",
+      "type": "Manifest",
+      "label": {
+        "en": ["Hearn Trade Card"]
+      },
+      "navDate": "1830-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/yzhc33zt",
+      "type": "Manifest",
+      "label": {
+        "en": ["R. Collinson Trade Card"]
+      },
+      "navDate": "1830-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/v3xzvgxh",
+      "type": "Manifest",
+      "label": {
+        "en": ["G. & J. Lawrence Trade Card"]
+      },
+      "navDate": "1830-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/rf4zn7cz",
+      "type": "Manifest",
+      "label": {
+        "en": ["Green Trade Card"]
+      },
+      "navDate": "1830-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/w25412fp",
+      "type": "Manifest",
+      "label": {
+        "en": ["Joseph Stones Trade Card"]
+      },
+      "navDate": "1830-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/gpkclsr7",
+      "type": "Manifest",
+      "label": {
+        "en": ["Richard Sayer Trade Card"]
+      },
+      "navDate": "1838-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/nqmd9cr9",
+      "type": "Manifest",
+      "label": {
+        "en": ["John F. Lacourt Trade Card"]
+      },
+      "navDate": "1840-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/bwc741cv",
+      "type": "Manifest",
+      "label": {
+        "en": ["Dyte & Son Trade Card"]
+      },
+      "navDate": "1840-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/x5lgvdfz",
+      "type": "Manifest",
+      "label": {
+        "en": ["Freame, William Mill and Isaac Greaves Trade Card"]
+      },
+      "navDate": "1840-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/vghj6361",
+      "type": "Manifest",
+      "label": {
+        "en": ["T. W. Hopkins Trade Card"]
+      },
+      "navDate": "1850-01-01T00:00:00Z"
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/presentation/cc/wnb73yyt",
+      "type": "Manifest",
+      "label": {
+        "en": ["Charles Robinson Trade Card"]
+      },
+      "navDate": "1850-01-01T00:00:00Z"
+    }
+  ]
+}
